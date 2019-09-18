@@ -1,0 +1,40 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "create your resume quickly",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/json-resume/json-resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "cjkumaresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/json-resume/json-resume/issues"
+  },
+  "homepage": "https://github.com/json-resume/json-resume#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.1"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-hot-loader": "^4.12.13"
+  }
+}
