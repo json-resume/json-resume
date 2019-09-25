@@ -6,3 +6,4 @@
 6. npm install husky lint-staged prettier
 7. npm install --save styled-components
 8. npm install --save prop-types
+npm install --save redux react-redux
