@@ -1,2 +1,2 @@
 # json-resume
-create your resume quickly 
+create your resume quickly from json
