@@ -1,9 +1,0 @@
-1. npm init
-2. npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-react
-3. npm install --save-dev webpack webpack-cli webpack-dev-server style-loader css-loader babel-loader
-4. npm install --save react react-dom
-5. npm install --save react-hot-loader
-6. npm install husky lint-staged prettier
-7. npm install --save styled-components
-8. npm install --save prop-types
-npm install --save redux react-redux
